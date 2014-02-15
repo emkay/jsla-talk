@@ -14,3 +14,4 @@ talk for jsla
 * The CPU is a modified 8-bit 6502.
 * It has a total of 64kb of memory.
 * PPU is a custom chip that does the graphics display.
+* APU has five channels (square1/2, triangle, noise, DMC)
